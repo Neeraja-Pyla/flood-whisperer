@@ -1,0 +1,11 @@
+﻿streamlit
+huggingface_hub
+geopy
+folium
+streamlit-folium
+langdetect
+python-dotenv
+requests
+googletrans==4.0.0-rc1
+twilio==9.2.3
+openai
